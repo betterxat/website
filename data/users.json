@@ -1,0 +1,31 @@
+{
+  "1549252447": {
+    "username": "ErrorOliver",
+    "rainbow": true,
+    "magic": false,
+    "emojis": [],
+    "textShadow": {
+      "color": "#000000",
+      "blur": "0.2rem"
+    },
+    "pawn": {
+      "type": "p1pwn",
+      "color": "ff9900"
+    }
+  },
+  "126984499": {
+    "username": "𝐓𝐨𝐱𝐢𝐜",
+    "rainbow": true,
+    "magic": true,
+    "textColor": "#33ffd4",
+    "emojis": ["rad*oiring*y"],
+    "textShadow": {
+      "color": "#000001",
+      "blur": "0.2rem"
+    },
+    "pawn": {
+      "type": "p1jumpbunny",
+      "color": "000080"
+    }
+  }
+}
